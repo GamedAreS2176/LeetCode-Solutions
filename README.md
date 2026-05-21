@@ -42,14 +42,7 @@ Compile and run one file at a time:
 
 ```powershell
 javac Code392.java
-java Solution
-```
-
-If the file uses a class name like `Code1` instead of `Solution`, run the matching class name instead:
-
-```powershell
-javac Code1.java
-java Code1
+java Code392
 ```
 
 ## Notes
