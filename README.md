@@ -20,6 +20,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1431. Kids With the Greatest Number of Candies | `Code1431.java` |
 | 1470. Shuffle the Array | `Code1470.java` |
 | 151. Reverse Words in a String | `Code151.java` |
+| 1679. Max Number of K-Sum Pairs | `Code1679.java` |
 | 1768. Merge Strings Alternately | `Code1768.java` |
 | 1929. Concatenation of Array | `Code1929.java` |
 | 217. Contains Duplicate | `Code217.java` |
