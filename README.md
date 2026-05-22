@@ -34,7 +34,9 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 485. Max Consecutive Ones | `Code485.java` |
 | 560. Subarray Sum Equals K | `Code560.java` |
 | 605. Can Place Flowers | `Code605.java` |
+| 643. Maximum Average Subarray I | `Code643.java` |
 | 645. Set Mismatch | `Code645.java` |
+| 1456. Maximum Number of Vowels in a Substring of Given Length | `Code1456.java` |
 | 704. Binary Search | `Code704.java` |
 
 ## How To Run
