@@ -23,6 +23,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1679. Max Number of K-Sum Pairs | `Code1679.java` |
 | 1768. Merge Strings Alternately | `Code1768.java` |
 | 1929. Concatenation of Array | `Code1929.java` |
+| 1991. Find the Middle Index in Array | `Code1991.java` |
 | 217. Contains Duplicate | `Code217.java` |
 | 238. Product of Array Except Self | `Code238.java` |
 | 242. Valid Anagram | `Code242.java` |
