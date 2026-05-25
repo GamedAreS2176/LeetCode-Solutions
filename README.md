@@ -17,6 +17,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 11. Container With Most Water | `Code11.java` |
 | 20. Valid Parentheses | `Code20.java` |
 | 1071. Greatest Common Divisor of Strings | `Code1071.java` |
+| 1207. Unique Number of Occurrences | `Code1207.java` |
 | 1431. Kids With the Greatest Number of Candies | `Code1431.java` |
 | 1470. Shuffle the Array | `Code1470.java` |
 | 151. Reverse Words in a String | `Code151.java` |
@@ -24,6 +25,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1768. Merge Strings Alternately | `Code1768.java` |
 | 1929. Concatenation of Array | `Code1929.java` |
 | 1991. Find the Middle Index in Array | `Code1991.java` |
+| 2215. Find the Difference of Two Arrays | `Code2215.java` |
 | 217. Contains Duplicate | `Code217.java` |
 | 238. Product of Array Except Self | `Code238.java` |
 | 242. Valid Anagram | `Code242.java` |
