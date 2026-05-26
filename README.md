@@ -21,12 +21,14 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1431. Kids With the Greatest Number of Candies | `Code1431.java` |
 | 1470. Shuffle the Array | `Code1470.java` |
 | 151. Reverse Words in a String | `Code151.java` |
+| 1657. Determine if Two Strings Are Close | `Code1657.java` |
 | 1679. Max Number of K-Sum Pairs | `Code1679.java` |
 | 1768. Merge Strings Alternately | `Code1768.java` |
 | 1929. Concatenation of Array | `Code1929.java` |
 | 1991. Find the Middle Index in Array | `Code1991.java` |
 | 2215. Find the Difference of Two Arrays | `Code2215.java` |
 | 217. Contains Duplicate | `Code217.java` |
+| 2352. Equal Row and Column Pairs | `Code2352.java` |
 | 238. Product of Array Except Self | `Code238.java` |
 | 242. Valid Anagram | `Code242.java` |
 | 283. Move Zeroes | `Code283.java` |
