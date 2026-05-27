@@ -46,6 +46,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 724. Find Pivot Index | `Code724.java` |
 | 1004. Max Consecutive Ones III | `Code1004.java` |
 | 1493. Longest Subarray of 1's After Deleting One Element | `Code1493.java` |
+| 2390. Removing Stars From a String | `Code2390.java` |
 | 704. Binary Search | `Code704.java` |
 
 ## How To Run
