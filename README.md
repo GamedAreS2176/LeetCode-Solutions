@@ -16,6 +16,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 3. Longest Substring Without Repeating Characters             | `Code3.java`    |
 | 11. Container With Most Water                                 | `Code11.java`   |
 | 20. Valid Parentheses                                         | `Code20.java`   |
+| 26. Remove Duplicates from Sorted Array                       | `Code26.java`   |
 | 88. Merge Sorted Array                                        | `Code88.java`   |
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
 | 1207. Unique Number of Occurrences                            | `Code1207.java` |
