@@ -25,6 +25,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
 | 1470. Shuffle the Array                                       | `Code1470.java` |
 | 151. Reverse Words in a String                                | `Code151.java`  |
+| 169. Majority Element                                         | `Code169.java`  |
 | 1657. Determine if Two Strings Are Close                      | `Code1657.java` |
 | 1679. Max Number of K-Sum Pairs                               | `Code1679.java` |
 | 1768. Merge Strings Alternately                               | `Code1768.java` |
