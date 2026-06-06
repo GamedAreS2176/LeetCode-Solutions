@@ -21,6 +21,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 88. Merge Sorted Array                                        | `Code88.java`   |
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
 | 1207. Unique Number of Occurrences                            | `Code1207.java` |
+| 121. Best Time to Buy and Sell Stock                          | `Code121.java`  |
 | 27. Remove Element                                            | `Code27.java`   |
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
 | 1470. Shuffle the Array                                       | `Code1470.java` |
