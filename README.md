@@ -42,6 +42,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 283. Move Zeroes                                              | `Code283.java`  |
 | 334. Increasing Triplet Subsequence                           | `Code334.java`  |
 | 345. Reverse Vowels of a String                               | `Code345.java`  |
+| 380. Insert Delete GetRandom O(1)                             | `Code380.java`  |
 | 392. Is Subsequence                                           | `Code392.java`  |
 | 443. String Compression                                       | `Code443.java`  |
 | 485. Max Consecutive Ones                                     | `Code485.java`  |
