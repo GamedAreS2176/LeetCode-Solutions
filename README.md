@@ -15,6 +15,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1. Two Sum                                                    | `Code1.java`    |
 | 3. Longest Substring Without Repeating Characters             | `Code3.java`    |
 | 11. Container With Most Water                                 | `Code11.java`   |
+| 14. Longest Common Prefix                                     | `Code14.java`   |
 | 20. Valid Parentheses                                         | `Code20.java`   |
 | 26. Remove Duplicates from Sorted Array                       | `Code26.java`   |
 | 80. Remove Duplicates from Sorted Array II                    | `Code80.java`   |
