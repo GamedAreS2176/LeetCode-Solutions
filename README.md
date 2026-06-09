@@ -59,6 +59,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 2390. Removing Stars From a String                            | `Code2390.java` |
 | 704. Binary Search                                            | `Code704.java`  |
 | 2574. Left and Right Difference                               | `Code2574.java` |
+| 3689. Maximum Total Subarray Value I                          | `Code3689.java` |
 
 ## Contests
 
