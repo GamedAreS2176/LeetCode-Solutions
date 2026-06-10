@@ -30,6 +30,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
 | 1470. Shuffle the Array                                       | `Code1470.java` |
 | 151. Reverse Words in a String                                | `Code151.java`  |
+| 167. Two Sum II - Input Array Is Sorted                       | `Code167.java`  |
 | 169. Majority Element                                         | `Code169.java`  |
 | 189. Rotate Array                                             | `Code189.java`  |
 | 1657. Determine if Two Strings Are Close                      | `Code1657.java` |
