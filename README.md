@@ -23,6 +23,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
 | 1207. Unique Number of Occurrences                            | `Code1207.java` |
 | 121. Best Time to Buy and Sell Stock                          | `Code121.java`  |
+| 125. Valid Palindrome                                         | `Code125.java`  |
 | 134. Gas Station                                              | `Code134.java`  |
 | 27. Remove Element                                            | `Code27.java`   |
 | 28. Find the Index of the First Occurrence in a String        | `Code28.java`   |
