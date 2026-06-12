@@ -45,6 +45,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 2352. Equal Row and Column Pairs                              | `Code2352.java` |
 | 238. Product of Array Except Self                             | `Code238.java`  |
 | 242. Valid Anagram                                            | `Code242.java`  |
+| 274. H-Index                                                  | `Code274.java`  |
 | 283. Move Zeroes                                              | `Code283.java`  |
 | 334. Increasing Triplet Subsequence                           | `Code334.java`  |
 | 345. Reverse Vowels of a String                               | `Code345.java`  |
