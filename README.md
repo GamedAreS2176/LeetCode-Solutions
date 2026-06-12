@@ -28,6 +28,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 134. Gas Station                                              | `Code134.java`  |
 | 27. Remove Element                                            | `Code27.java`   |
 | 28. Find the Index of the First Occurrence in a String        | `Code28.java`   |
+| 30. Substring with Concatenation of All Words                 | `Code30.java`   |
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
 | 1470. Shuffle the Array                                       | `Code1470.java` |
 | 151. Reverse Words in a String                                | `Code151.java`  |
