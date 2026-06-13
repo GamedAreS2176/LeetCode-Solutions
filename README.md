@@ -68,6 +68,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 704. Binary Search                                            | `Code704.java`  |
 | 2574. Left and Right Difference                               | `Code2574.java` |
 | 3689. Maximum Total Subarray Value I                          | `Code3689.java` |
+| 3838. Map Word Weights                                        | `Code3838.java` |
 
 ## Contests
 
