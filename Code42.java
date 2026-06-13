@@ -1,0 +1,23 @@
+class Code42
+{
+    public int trap(int[] height)
+    {
+        int l=0,r=height.length-1,lmax=height[l],rmax=height[r],w=0;
+        while(l<r)
+        {
+            if(lmax<rmax)
+            {
+                l++;
+                lmax=Math.max(lmax,height[l]);
+                w+=lmax-height[l];
+            }
+            else
+            {
+                r--;
+                rmax=Math.max(rmax,height[r]);
+                w+=rmax-height[r];
+            }
+        }
+        return w;
+    }
+}
