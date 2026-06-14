@@ -75,6 +75,8 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 
 - **Biweekly Contest 184** — solved problems:
   - [ProbA.java](Biweekly%20Contest%20184/ProbA.java)
+- **Weekly Contest 506** — solved problems:
+  - [ProbA.java](Weekly%20Contest%20506/ProbA.java)
 
 ## How To Run
 
