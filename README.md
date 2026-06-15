@@ -49,6 +49,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 242. Valid Anagram                                            | `Code242.java`  |
 | 274. H-Index                                                  | `Code274.java`  |
 | 283. Move Zeroes                                              | `Code283.java`  |
+| 328. Odd Even Linked List                                     | `Code328.java`  |
 | 334. Increasing Triplet Subsequence                           | `Code334.java`  |
 | 345. Reverse Vowels of a String                               | `Code345.java`  |
 | 380. Insert Delete GetRandom O(1)                             | `Code380.java`  |
