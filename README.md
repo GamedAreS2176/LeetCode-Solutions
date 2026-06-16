@@ -71,6 +71,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 2095. Delete the Middle Node of a Linked List                 | `Code2095.java` |
 | 704. Binary Search                                            | `Code704.java`  |
 | 2574. Left and Right Difference                               | `Code2574.java` |
+| 3612. Process String with Special Operation I                 | `Code3612.java` |
 | 3689. Maximum Total Subarray Value I                          | `Code3689.java` |
 | 3838. Map Word Weights                                        | `Code3838.java` |
 
