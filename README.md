@@ -69,6 +69,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1493. Longest Subarray of 1's After Deleting One Element      | `Code1493.java` |
 | 2390. Removing Stars From a String                            | `Code2390.java` |
 | 2095. Delete the Middle Node of a Linked List                 | `Code2095.java` |
+| 2130. Maximum Twin Sum of a Linked List                       | `Code2130.java` |
 | 704. Binary Search                                            | `Code704.java`  |
 | 2574. Left and Right Difference                               | `Code2574.java` |
 | 3612. Process String with Special Operation I                 | `Code3612.java` |
