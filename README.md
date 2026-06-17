@@ -72,7 +72,8 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 2130. Maximum Twin Sum of a Linked List                       | `Code2130.java` |
 | 704. Binary Search                                            | `Code704.java`  |
 | 2574. Left and Right Difference                               | `Code2574.java` |
-| 3612. Process String with Special Operation I                 | `Code3612.java` |
+| 3612. Process String with Special Operations I                | `Code3612.java` |
+| 3614. Process String with Special Operations II               | `Code3614.java` |
 | 3689. Maximum Total Subarray Value I                          | `Code3689.java` |
 | 3838. Map Word Weights                                        | `Code3838.java` |
 
