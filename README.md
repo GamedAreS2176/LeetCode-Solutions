@@ -50,6 +50,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1991. Find the Middle Index in Array                          | `Code1991.java` |
 | 2215. Find the Difference of Two Arrays                       | `Code2215.java` |
 | 217. Contains Duplicate                                       | `Code217.java`  |
+| 219. Contains Duplicate II                                    | `Code219.java`  |
 | 2352. Equal Row and Column Pairs                              | `Code2352.java` |
 | 238. Product of Array Except Self                             | `Code238.java`  |
 | 242. Valid Anagram                                            | `Code242.java`  |
