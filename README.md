@@ -41,6 +41,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1657. Determine if Two Strings Are Close                      | `Code1657.java` |
 | 1679. Max Number of K-Sum Pairs                               | `Code1679.java` |
 | 1768. Merge Strings Alternately                               | `Code1768.java` |
+| 202. Happy Number                                             | `Code202.java`  |
 | 205. Isomorphic Strings                                       | `Code205.java`  |
 | 206. Reverse Linked List                                      | `Code206.java`  |
 | 209. Minimum Size Subarray Sum                                | `Code209.java`  |
