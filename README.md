@@ -22,6 +22,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 80. Remove Duplicates from Sorted Array II                    | `Code80.java`   |
 | 88. Merge Sorted Array                                        | `Code88.java`   |
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
+| 1189. Maximum Number of Balloons                              | `Code1189.java` |
 | 1207. Unique Number of Occurrences                            | `Code1207.java` |
 | 121. Best Time to Buy and Sell Stock                          | `Code121.java`  |
 | 125. Valid Palindrome                                         | `Code125.java`  |
