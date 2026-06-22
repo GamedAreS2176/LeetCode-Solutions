@@ -14,6 +14,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | ------------------------------------------------------------- | --------------- |
 | 1. Two Sum                                                    | `Code1.java`    |
 | 3. Longest Substring Without Repeating Characters             | `Code3.java`    |
+| 7. Reverse Integer                                            | `Code7.java`    |
 | 11. Container With Most Water                                 | `Code11.java`   |
 | 14. Longest Common Prefix                                     | `Code14.java`   |
 | 15. 3Sum                                                      | `Code15.java`   |
