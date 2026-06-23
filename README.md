@@ -13,6 +13,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | Problem                                                       | File            |
 | ------------------------------------------------------------- | --------------- |
 | 1. Two Sum                                                    | `Code1.java`    |
+| 2. Add Two Numbers                                            | `Code2.java`    |
 | 3. Longest Substring Without Repeating Characters             | `Code3.java`    |
 | 7. Reverse Integer                                            | `Code7.java`    |
 | 11. Container With Most Water                                 | `Code11.java`   |
