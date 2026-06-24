@@ -52,6 +52,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 206. Reverse Linked List                                      | `Code206.java`  |
 | 209. Minimum Size Subarray Sum                                | `Code209.java`  |
 | 1833. Maximum Ice Cream Bars                                  | `Code1833.java` |
+| 1838. Frequency of the Most Frequent Element                  | `Code1838.java` |
 | 1929. Concatenation of Array                                  | `Code1929.java` |
 | 1991. Find the Middle Index in Array                          | `Code1991.java` |
 | 2215. Find the Difference of Two Arrays                       | `Code2215.java` |
