@@ -39,6 +39,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1344. Angle Between Hands of a Clock                          | `Code1344.java` |
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
 | 1470. Shuffle the Array                                       | `Code1470.java` |
+| 136. Single Number                                            | `Code136.java`  |
 | 141. Linked List Cycle                                        | `Code141.java`  |
 | 151. Reverse Words in a String                                | `Code151.java`  |
 | 167. Two Sum II - Input Array Is Sorted                       | `Code167.java`  |
