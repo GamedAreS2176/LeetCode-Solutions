@@ -22,6 +22,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 20. Valid Parentheses                                         | `Code20.java`   |
 | 21. Merge Two Sorted Lists                                    | `Code21.java`   |
 | 26. Remove Duplicates from Sorted Array                       | `Code26.java`   |
+| 75. Sort Colors                                               | `Code75.java`   |
 | 80. Remove Duplicates from Sorted Array II                    | `Code80.java`   |
 | 88. Merge Sorted Array                                        | `Code88.java`   |
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
