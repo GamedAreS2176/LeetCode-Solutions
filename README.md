@@ -39,8 +39,9 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 42. Trapping Rain Water                                       | `Code42.java`   |
 | 48. Rotate Image                                              | `Code48.java`   |
 | 49. Group Anagrams                                            | `Code49.java`   |
-| 54. Spiral Matrix                                             | `Code54.java`   |
 | 53. Maximum Subarray                                          | `Code53.java`   |
+| 54. Spiral Matrix                                             | `Code54.java`   |
+| 56. Merge Intervals                                           | `Code56.java`   |
 | 73. Set Matrix Zeroes                                         | `Code73.java`   |
 | 1344. Angle Between Hands of a Clock                          | `Code1344.java` |
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
