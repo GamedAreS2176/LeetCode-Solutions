@@ -62,6 +62,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1838. Frequency of the Most Frequent Element                  | `Code1838.java` |
 | 1846. Maximum Element After Decreasing and Rearranging        | `Code1846.java` |
 | 1929. Concatenation of Array                                  | `Code1929.java` |
+| 1967. Number of Strings That Appear as Substrings in Word     | `Code1967.java` |
 | 1991. Find the Middle Index in Array                          | `Code1991.java` |
 | 2215. Find the Difference of Two Arrays                       | `Code2215.java` |
 | 217. Contains Duplicate                                       | `Code217.java`  |
