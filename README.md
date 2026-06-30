@@ -44,6 +44,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 56. Merge Intervals                                           | `Code56.java`   |
 | 73. Set Matrix Zeroes                                         | `Code73.java`   |
 | 1344. Angle Between Hands of a Clock                          | `Code1344.java` |
+| 1358. Number of Substrings Containing All Three Characters    | `Code1358.java` |
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
 | 1470. Shuffle the Array                                       | `Code1470.java` |
 | 136. Single Number                                            | `Code136.java`  |
