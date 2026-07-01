@@ -50,6 +50,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 136. Single Number                                            | `Code136.java`  |
 | 141. Linked List Cycle                                        | `Code141.java`  |
 | 151. Reverse Words in a String                                | `Code151.java`  |
+| 152. Maximum Product Subarray                                 | `Code152.java`  |
 | 167. Two Sum II - Input Array Is Sorted                       | `Code167.java`  |
 | 169. Majority Element                                         | `Code169.java`  |
 | 189. Rotate Array                                             | `Code189.java`  |
