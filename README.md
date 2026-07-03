@@ -36,6 +36,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 27. Remove Element                                            | `Code27.java`   |
 | 28. Find the Index of the First Occurrence in a String        | `Code28.java`   |
 | 30. Substring with Concatenation of All Words                 | `Code30.java`   |
+| 33. Search in Rotated Sorted Array                            | `Code33.java`   |
 | 34. Find First and Last Position of Element in Sorted Array   | `Code34.java`   |
 | 35. Search Insert Position                                    | `Code35.java`   |
 | 42. Trapping Rain Water                                       | `Code42.java`   |
