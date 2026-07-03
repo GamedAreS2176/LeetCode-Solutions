@@ -25,6 +25,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 26. Remove Duplicates from Sorted Array                       | `Code26.java`   |
 | 75. Sort Colors                                               | `Code75.java`   |
 | 80. Remove Duplicates from Sorted Array II                    | `Code80.java`   |
+| 81. Search in Rotated Sorted Array II                         | `Code81.java`   |
 | 88. Merge Sorted Array                                        | `Code88.java`   |
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
 | 1189. Maximum Number of Balloons                              | `Code1189.java` |
