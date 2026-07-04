@@ -92,6 +92,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 443. String Compression                                       | `Code443.java`  |
 | 485. Max Consecutive Ones                                     | `Code485.java`  |
 | 509. Fibonacci Number                                         | `Code509.java`  |
+| 540. Single Element in a Sorted Array                         | `Code540.java`  |
 | 560. Subarray Sum Equals K                                    | `Code560.java`  |
 | 605. Can Place Flowers                                        | `Code605.java`  |
 | 643. Maximum Average Subarray I                               | `Code643.java`  |
