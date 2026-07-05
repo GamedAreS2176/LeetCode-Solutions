@@ -49,6 +49,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 151. Reverse Words in a String                                | `Code151.java`  |
 | 152. Maximum Product Subarray                                 | `Code152.java`  |
 | 153. Find Minimum in Rotated Sorted Array                     | `Code153.java`  |
+| 162. Find Peak Element                                        | `Code162.java`  |
 | 167. Two Sum II - Input Array Is Sorted                       | `Code167.java`  |
 | 169. Majority Element                                         | `Code169.java`  |
 | 189. Rotate Array                                             | `Code189.java`  |
@@ -120,6 +121,9 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 
 - **Biweekly Contest 184** — solved problems:
   - [ProbA.java](Biweekly%20Contest%20184/ProbA.java)
+- **Biweekly Contest 186** — solved problems:
+  - [ProbA.java](Biweekly%20Contest%20186/ProbA.java)
+  - [ProbB.java](Biweekly%20Contest%20186/ProbB.java)
 - **Weekly Contest 506** — solved problems:
   - [ProbA.java](Weekly%20Contest%20506/ProbA.java)
 
