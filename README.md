@@ -82,6 +82,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 704. Binary Search                                            | `Code704.java`  |
 | 724. Find Pivot Index                                         | `Code724.java`  |
 | 735. Asteroid Collision                                       | `Code735.java`  |
+| 875. Koko Eating Bananas                                      | `Code875.java`  |
 | 1004. Max Consecutive Ones III                                | `Code1004.java` |
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
 | 1189. Maximum Number of Balloons                              | `Code1189.java` |
