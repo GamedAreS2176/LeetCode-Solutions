@@ -86,6 +86,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 1071. Greatest Common Divisor of Strings                      | `Code1071.java` |
 | 1189. Maximum Number of Balloons                              | `Code1189.java` |
 | 1207. Unique Number of Occurrences                            | `Code1207.java` |
+| 1288. Remove Covered Intervals                                | `Code1288.java` |
 | 1344. Angle Between Hands of a Clock                          | `Code1344.java` |
 | 1358. Number of Substrings Containing All Three Characters    | `Code1358.java` |
 | 1431. Kids With the Greatest Number of Candies                | `Code1431.java` |
