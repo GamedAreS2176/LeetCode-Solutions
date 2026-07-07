@@ -117,6 +117,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 3614. Process String with Special Operations II               | `Code3614.java` |
 | 3689. Maximum Total Subarray Value I                          | `Code3689.java` |
 | 3737. Count Subarrays With Majority Element I                 | `Code3737.java` |
+| 3754. Concatenate Non-Zero Digits and Multiply by Sum I       | `Code3754.java` |
 | 3838. Map Word Weights                                        | `Code3838.java` |
 
 ## Contests
