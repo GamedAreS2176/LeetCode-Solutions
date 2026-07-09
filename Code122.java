@@ -10,5 +10,4 @@ class Code122
         }
         return p;
     }
-    
 }
