@@ -126,6 +126,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 2574. Left and Right Difference                               | `Code2574.java` |
 | 3612. Process String with Special Operations I                | `Code3612.java` |
 | 3614. Process String with Special Operations II               | `Code3614.java` |
+| 3658. GCD of Odd and Even Sums                                | `Code3658.java` |
 | 3689. Maximum Total Subarray Value I                          | `Code3689.java` |
 | 3737. Count Subarrays With Majority Element I                 | `Code3737.java` |
 | 3754. Concatenate Non-Zero Digits and Multiply by Sum I       | `Code3754.java` |
