@@ -131,6 +131,7 @@ This repository contains Java solutions for a growing set of LeetCode problems. 
 | 3737. Count Subarrays With Majority Element I                 | `Code3737.java` |
 | 3754. Concatenate Non-Zero Digits and Multiply by Sum I       | `Code3754.java` |
 | 3838. Map Word Weights                                        | `Code3838.java` |
+| 3867. Sum of GCD of Formed Pairs                              | `Code3867.java` |
 
 ## Contests
 
